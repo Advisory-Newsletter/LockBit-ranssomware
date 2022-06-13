@@ -1,4 +1,4 @@
-# LockBit-ranssomware
+# LockBit-ransomware
 **SHA256**
 1	0a937d4fe8aa6cb947b95841c490d73e452a3cafcd92645afc353006786aba76
 2	0e66029132a885143b87b1e49e32663a52737bbff4ab96186e9e5e829aa2915f
